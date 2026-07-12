@@ -71,12 +71,22 @@ shreyas@portfolio:~$ cat current_focus.txt
 
 ---
 
-### 📊 GitHub Stats
+### 📊 The Stack, In Practice
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyas-peddi&show_icons=true&hide_border=true&title_color=3DC47C&icon_color=6BFF8A&text_color=C8C8C8&bg_color=0C0C0C" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-peddi&layout=compact&hide_border=true&title_color=3DC47C&text_color=C8C8C8&bg_color=0C0C0C" alt="Top languages">
-</p>
+```bash
+shreyas@portfolio:~$ neofetch --focus
+```
+
+```
+role      Jr. AI Engineer @ Octave Holdings
+focus     Agentic RAG · LLMs in production · applied ML research
+edu       MS Computer Science, University of Georgia
+shipping  Gemini + pgvector RAG · GCP Cloud Run microservices
+langs     Python · TypeScript · JavaScript · SQL
+ml        PyTorch · TensorFlow · Hugging Face · Gemini API
+cloud     GCP (Cloud Run, Vertex AI) · Docker · CI/CD
+data      PostgreSQL · pgvector · MongoDB
+```
 
 ---
 
