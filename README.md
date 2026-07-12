@@ -48,7 +48,6 @@ shreyas@portfolio:~$ cat current_focus.txt
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -66,10 +65,9 @@ shreyas@portfolio:~$ cat current_focus.txt
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Lease Abstractor](https://github.com/shreyas-peddi/Lease-abstractor)** | Agentic RAG across 10,000+ commercial leases — structures 200+ fields per doc, in production daily | Gemini API · pgvector · GCP Cloud Run |
 | **[ProxyFL-Prune](https://github.com/shreyas-peddi/ProxyFLPrune)** | Pruning in decentralized federated learning — −40% model size while preserving differential privacy | PyTorch · Opacus · Hugging Face |
-| **[Glaucoma Detection CNNs](https://github.com/shreyas-peddi/Glaucoma-Detection-using-CNN)** | Benchmarked ResNet50 / DenseNet / MobileNet for eye-disease detection — 94%+ accuracy | TensorFlow · Keras · OpenCV |
-| **[B2B Payment Predictor](https://github.com/shreyas-peddi/b2b-payment-date-prediction)** | ML model forecasting when a B2B invoice will be paid — cash-flow planning over guessing | Scikit-learn · Pandas |
+| **[Brain Tumor Classification](https://github.com/shreyas-peddi/BT-classification)** | CNN models classifying brain-tumor types from MRI scans — applied deep learning to high-stakes diagnosis | TensorFlow · Keras · OpenCV |
+| **[Airbnb Clone](https://github.com/shreyas-peddi/airbnb-clone)** | End-to-end rental platform — React frontend on a decoupled Spring Boot REST API with search + booking | React · Spring Boot · Java |
 
 ---
 
